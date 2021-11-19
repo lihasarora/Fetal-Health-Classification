@@ -8,3 +8,10 @@ Objective
 
 Our objective is to be able to predict if fetus health is at high risk solely based on data collected by the CTG and determine which variables are most
 important in making this prediction.
+
+<B> Output of a Cardiotocogram </B>
+![image](https://user-images.githubusercontent.com/87246714/142689898-7c6982c2-80b4-4369-872a-c4fd7cd50513.png)
+
+<Final Results>
+ 
+  ![image](https://user-images.githubusercontent.com/87246714/142690002-b56073e0-c7c1-4847-8c22-7073116d40ea.png)
