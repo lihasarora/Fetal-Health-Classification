@@ -9,5 +9,5 @@ Objective
 We built a classification model to predict if fetus health is at high risk solely based on data collected by the CTG and determine which variables are most
 important in making this prediction.
 
-For detailed Report, Please take a look at the attached PDF:
+For detailed Report, Please take a look at the attached PDF: 
 [Project_Arora_Bansal_Gonzales_Wang.pdf](https://github.com/lihasarora/Fetal-Health-Classification/files/7572886/Project_Arora_Bansal_Gonzales_Wang.pdf)
